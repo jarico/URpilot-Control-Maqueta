@@ -1,0 +1,11 @@
+# Eliminar los archivos de guardado automático generados por el editor de Matlab
+# ¡Tenemos git para hacer copias de seguridad!
+*.asv
+*.m~
+*.mex*
+slprj/
+octave-workspace
+.autosave
+
+# Eliminar los archivos generados por Simulink
+*.slxc
