@@ -10,6 +10,7 @@ octave-workspace
 # Eliminar los archivos generados por Simulink
 *.slxc
 *.autosave
+*.autosave.original
 
 # Eliminar los directorios terminados en 
 **/*grt_rtw/
